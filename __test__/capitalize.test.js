@@ -20,6 +20,10 @@ test("word start with non-letters return the same", () => {
     expect(capitalize(".myname")).toMatch(/.myname/);
 })
 
+test("word with single length", () => {
+    expect(capitalize("a")).toMatch(/A/);
+})
+
 
 
 
