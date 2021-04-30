@@ -1,1 +1,1 @@
-Testing practice from Odin Project
+Unit testing exercises with Jest from the Odin Project. 
